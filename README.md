@@ -1,5 +1,6 @@
-# calculator
+# Calculator
 
+This was actually my first out of many projects of flutter which i uploaded on github.
 A new Flutter project.
 
 ## Getting Started
