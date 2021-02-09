@@ -1,6 +1,6 @@
 # Calculator
 
-This was actually my first out of many projects of flutter which i uploaded on github.
+This is actually my first out of many projects in flutter.
 A new Flutter project.
 
 ## Getting Started
